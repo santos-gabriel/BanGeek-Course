@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="160" viewBox="0 0 160 160">
+  <defs>
+    <filter id="Caminho_7443" x="0" y="0" width="160" height="160" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#e2306c" flood-opacity="0.69"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="right-button" transform="translate(30 27)">
+    <g transform="matrix(1, 0, 0, 1, -30, -27)" filter="url(#Caminho_7443)">
+      <g id="Caminho_7443-2" data-name="Caminho 7443" transform="translate(30 27)" fill="#e2306c">
+        <path d="M 90 99.5 L 10 99.5 C 4.761680126190186 99.5 0.5 95.23831939697266 0.5 90 L 0.5 10 C 0.5 4.761680126190186 4.761680126190186 0.5 10 0.5 L 90 0.5 C 95.23831939697266 0.5 99.5 4.761680126190186 99.5 10 L 99.5 90 C 99.5 95.23831939697266 95.23831939697266 99.5 90 99.5 Z" stroke="none"/>
+        <path d="M 10 1 C 5.037384033203125 1 1 5.037384033203125 1 10 L 1 90 C 1 94.96261596679688 5.037384033203125 99 10 99 L 90 99 C 94.96261596679688 99 99 94.96261596679688 99 90 L 99 10 C 99 5.037384033203125 94.96261596679688 1 90 1 L 10 1 M 10 0 L 90 0 C 95.52285003662109 0 100 4.477149963378906 100 10 L 100 90 C 100 95.52285003662109 95.52285003662109 100 90 100 L 10 100 C 4.477149963378906 100 0 95.52285003662109 0 90 L 0 10 C 0 4.477149963378906 4.477149963378906 0 10 0 Z" stroke="none" fill="#ff4e8a"/>
+      </g>
+    </g>
+    <path id="Caminho_7456" data-name="Caminho 7456" d="M-1780-22541.865l19.021,19.021-19.021,19.021" transform="translate(1820.489 22572.844)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

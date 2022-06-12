@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="0 0 24 16">
+  <g id="Grupo_20901" data-name="Grupo 20901" transform="translate(308 -304) rotate(90)">
+    <g id="Retângulo_339" data-name="Retângulo 339" transform="translate(304 284)" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="16" height="24" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="15" height="23" rx="1.5" fill="none"/>
+    </g>
+    <line id="Linha_116" data-name="Linha 116" y2="6" transform="translate(315 305) rotate(90)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Linha_117" data-name="Linha 117" y2="6" transform="translate(315 302) rotate(90)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Linha_118" data-name="Linha 118" y2="6" transform="translate(315 299) rotate(90)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Linha_121" data-name="Linha 121" y2="6" transform="translate(315 290) rotate(90)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Linha_120" data-name="Linha 120" y2="6" transform="translate(315 293) rotate(90)" fill="none" stroke="#707070" stroke-width="0.5"/>
+    <line id="Linha_122" data-name="Linha 122" y2="6" transform="translate(315 288) rotate(90)" fill="none" stroke="#707070" stroke-width="0.5"/>
+    <line id="Linha_119" data-name="Linha 119" y2="6" transform="translate(315 296) rotate(90)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
